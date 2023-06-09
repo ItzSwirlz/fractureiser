@@ -11,7 +11,7 @@ If left unchecked, fractureiser can be **INCREDIBLY DANGEROUS** to your machine.
 
 We've dubbed this malware `fractureiser` because that's the name of the CurseForge account that uploaded the most notable malicious files.  
 
-## Qué TU necesitas saber
+## Qué TÚ necesitas saber
 
 ### [Modded Players CLICK HERE](docs/users.md)
 
@@ -23,7 +23,7 @@ Anyone who wishes to dig deeper may also look at
 
 ### I have never used any minecraft mods
 
-Tu no estas infectado.
+Tú no estás infectado.
 
 ## Current Investigation Status
 We have a good idea how fractureiser works, from Stages 0 to 3. There are certain
