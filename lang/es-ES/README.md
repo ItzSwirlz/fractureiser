@@ -1,11 +1,11 @@
 <p align="center">
-    <img src="docs/media/logo.svg" alt="Logo">
+    <img src="../../docs/media/logo.svg" alt="Logo">
 </p>
 
 *Pardon our dust, documentation still in progress*
 
-## What?
-`fractureiser` es un [virus/software malicioso](https://en.wikipedia.org/wiki/Computer_virus) found in several Minecraft projects uploaded to CurseForge and CraftBukkit's dev website. The malware is embedded in multiple mods, some of which were added to highly popular modpacks. The Malware is only known to target Windows and Linux Systems.
+## ¿Qué?
+`fractureiser` es un [virus/software malicioso](https://en.wikipedia.org/wiki/Computer_virus) encontrado en proyectos de Minecraft varios subieron a CurseForge y el sitio web por programador de CraftBukkit. The malware is embedded in multiple mods, some of which were added to highly popular modpacks. The Malware is only known to target Windows and Linux Systems.
 
 If left unchecked, fractureiser can be **INCREDIBLY DANGEROUS** to your machine. Please read through this document for the info you need to keep yourself safe.
 
